@@ -5,15 +5,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
-
-import javax.print.attribute.standard.RequestingUserName;
-
 import org.apache.axiom.om.util.Base64;
-
 import com.thoughtworks.xstream.core.util.Base64Encoder;
-
-import junit.runner.BaseTestRunner;
-
 
 public class StringUtils {
 	

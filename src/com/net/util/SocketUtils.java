@@ -10,9 +10,6 @@ import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.URL;
-
-import org.hamcrest.core.Is;
-
 public class SocketUtils {
 	
 	/**

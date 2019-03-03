@@ -1,24 +1,9 @@
 package com.huaweijishi.niuke;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Main {
 	
-	/**
-	 * 公共测试方法 
-	 */
-	
-	public boolean common(){
-		{
-			int x = 12;
-			{
-				int y = 12;
-				String s = "hello";
-			}
-		}
-		return true;
-	}
 	/**
 	 * 一串由空格隔开的字符串，最后一个单词的长度，空格隔开
 	 */

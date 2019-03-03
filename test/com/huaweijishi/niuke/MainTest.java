@@ -9,11 +9,6 @@ public class MainTest {
 	private static Main main = new Main();
 	
 	@Test
-	public void testCommon(){
-		assertEquals(true, main.common());
-	}
-	
-	@Test
 	public void testStrLastWordLen() {
 		assertEquals(4, new Main().strLastWordLen("Hello this is test"));
 		assertEquals(0, new Main().strLastWordLen(""));
