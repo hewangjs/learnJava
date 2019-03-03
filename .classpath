@@ -5,19 +5,6 @@
 	<classpathentry kind="src" path="resource"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="lib/axiom-1.0.jar"/>
-	<classpathentry kind="lib" path="lib/bcprov-ext-jdk15on-155.jar"/>
-	<classpathentry kind="lib" path="lib/dom4j-1.6.jar"/>
-	<classpathentry kind="lib" path="lib/xstream-1.4.9.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/fluent-hc-4.5.6.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/httpclient-4.5.6.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/httpclient-cache-4.5.6.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/httpclient-win-4.5.6.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/httpcore-4.4.10.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/httpmime-4.5.6.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/jna-4.4.0.jar"/>
-	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.6/lib/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/useJars"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
