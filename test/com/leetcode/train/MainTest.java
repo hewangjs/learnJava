@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.leetcode.train.Main;
+import com.leetcode.train.common.Main;
 
 public class MainTest {
 	private static Main main = new Main();
